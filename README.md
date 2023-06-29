@@ -42,6 +42,7 @@ In this project I use several technologies, libraries and frameworks such as
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![Codeigniter][Codeigniter.com]][Codeigniter-url]
 [![JQuery][JQuery.com]][JQuery-url]
+[![SQL][SQL.com]][SQL-url]
 
 <!-- LICENSE -->
 
@@ -88,3 +89,5 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 [JQuery-url]: https://jquery.com
 [Codeigniter.com]: https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white
 [Codeigniter-url]: https://www.codeigniter.com/
+[SQL.com]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+[SQL-url]: http://localhost/phpmyadmin/
